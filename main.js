@@ -3,7 +3,7 @@ var app = new Vue({
     data() {
         return {
             titulo:"¿Quieres ser mi valentín?",
-            nombre:"Leidy",
+            nombre:"amor",
             estilos:{
                 top:'auto',
                 left:'auto'
