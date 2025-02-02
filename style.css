@@ -1,0 +1,44 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.relativos {
+    position: relative;
+    width: 100%;
+    min-height: 100vh; /* Hace que el contenedor ocupe toda la pantalla */
+    flex-direction: column;
+    padding-bottom: 20px; /* Espaciado para evitar que la imagen toque el borde */
+    background: url(img/fondo.png) no-repeat bottom center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#classbutton {
+    position: absolute;
+    top: 80px;
+    left: 30px;
+}
+
+
+body {
+    font-family: 'Dancing Script', cursive; /* Puedes cambiar a otra fuente */
+}
+
+h1, h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 2.5rem;
+}
+
+p {
+    font-family: 'Parisienne', cursive;
+    font-size: 1.2rem;
+}
