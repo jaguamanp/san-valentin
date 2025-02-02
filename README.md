@@ -1,3 +1,39 @@
-# Propuesta en Vue js
+# Proyecto "¿Quieres ser mi San Valentín?"
 
-![alt text](/img/Captura.PNG)
+Este es un pequeño y divertido proyecto creado con **HTML, CSS y Vue.js** para hacer una propuesta de San Valentín interactiva. Si la persona intenta seleccionar "No", el botón se moverá evitando ser presionado, haciendo que la única opción sea "Sí".
+
+## Características
+- Interfaz sencilla y amigable.
+- Uso de Vue.js para la interactividad.
+- Efecto divertido en el botón "No" para que no se pueda presionar.
+- Diseño responsive.
+
+## Tecnologías utilizadas
+- **HTML**: Estructura de la página.
+- **CSS**: Estilizado de la interfaz.
+- **Vue.js**: Manejo de la lógica y la interactividad.
+
+## Instalación y uso
+1. Clonar el repositorio:
+   ```bash
+   git clone https://github.com/jaguamanp/san-valentin.git
+   ```
+2. Navegar al directorio del proyecto:
+   ```bash
+   cd tu-repositorio
+   ```
+3. Abrir el archivo `index.html` en un navegador web.
+
+## Capturas de pantalla
+
+![alt text](/img/captura.png)
+
+## Licencia
+Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y modificarlo!
+
+---
+**Hecho con ❤️ para San Valentín**
+
+
+
+
